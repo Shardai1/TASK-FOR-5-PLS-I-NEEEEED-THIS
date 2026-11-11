@@ -1,3 +1,4 @@
+# Дроздов
 """
 Django settings for config project.
 
